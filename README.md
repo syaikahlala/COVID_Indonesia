@@ -115,3 +115,5 @@
 
 #KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+* Muhammad Syaikah Lala
+* https://www.linkedin.com/in/syaikah-lala-b313611a6/
